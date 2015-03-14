@@ -1,0 +1,3 @@
+[submodule "flatjs"]
+	path = flatjs
+	url = git@github.com:sankho/FlatJS.git
