@@ -1,4 +1,5 @@
 require "flatjs/rails/version"
+require "flatjs/rails/engine"
 
 module Flatjs
   module Rails

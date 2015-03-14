@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Flatjs::Rails::VERSION
   spec.authors       = ["Sankho Mallik"]
   spec.email         = ["sankho.mallik@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{FlatJS Rails Gem}
+  spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
